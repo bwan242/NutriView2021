@@ -1,16 +1,16 @@
-package com.example.nutriview2021.ui.notifications;
+package com.example.nutriview2021.ui.camera;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
+public class CameraViewModel extends ViewModel {
 
     private MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public CameraViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is notifications fragment");
+        mText.setValue("This is camera fragment");
     }
 
     public LiveData<String> getText() {
