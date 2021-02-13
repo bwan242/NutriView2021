@@ -8,6 +8,11 @@
         android:title="@string/title_home" />
 
     <item
+        android:id="@+id/navigation_recipes"
+        android:title="@string/title_recipes" />
+
+
+    <item
         android:id="@+id/navigation_camera"
         android:title="@string/title_camera" />
 

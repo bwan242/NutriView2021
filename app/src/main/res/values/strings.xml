@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">NutriView2021</string>
     <string name="title_home">Home</string>
-    <string name="title_profile">Profile</string>
+    <string name="title_recipes">Recipes</string>
     <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
 
 </resources>

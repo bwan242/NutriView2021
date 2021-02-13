@@ -11,6 +11,13 @@
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
+    <fragment
+        android:id="@+id/navigation_recipes"
+        android:name="com.example.nutriview2021.ui.recipes.RecipesFragment"
+        android:label="@string/title_recipes"
+        tools:layout="@layout/fragment_recipes" />
+
+
 
     <fragment
         android:id="@+id/navigation_camera"
