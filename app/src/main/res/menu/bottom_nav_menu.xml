@@ -9,15 +9,18 @@
 
     <item
         android:id="@+id/navigation_recipes"
+        android:icon="@drawable/ic_recipes_black_24dp"
         android:title="@string/title_recipes" />
 
 
     <item
         android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_camera_black_24dp"
         android:title="@string/title_camera" />
 
     <item
         android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_profile_black_24dp"
         android:title="@string/title_profile" />
 
 </menu>
