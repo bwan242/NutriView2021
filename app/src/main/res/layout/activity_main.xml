@@ -31,12 +31,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <Button
-        android:id="@+id/btnMakeNoise"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="488dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
